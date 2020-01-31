@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Logín.Views.RegisterPage">
+    <ContentPage.Content>
+        <Grid>
+            <Image Source="fondo.jpg" Aspect="AspectFill" />
+            <BoxView Color="#3C6EFF" Opacity="0.8" />
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Image Grid.Row="0" Source="logo.png" WidthRequest="100" HeightRequest="100" Margin="0,0,0,0" />
+
+                <StackLayout Grid.Row="1" Padding="30,20">
+                    <Entry Placeholder="Nombres" PlaceholderColor="White" x:Name="EntryNombres" />
+                    <Entry Placeholder="Apellidos" PlaceholderColor="White" x:Name="EntryApellidos" />
+                    <Entry Placeholder="DNI" PlaceholderColor="White" x:Name="EntryDNI"/>
+                    <Entry Placeholder="Correo Corporativo" PlaceholderColor="White" x:Name="EntryCorreo" />
+                    <Entry Placeholder="Número de Celular" PlaceholderColor="White" x:Name="EntryCelular"  />
+                    <Entry Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True" x:Name="EntryPassword" />
+                    <Button Text="Crear Cuenta" BackgroundColor="White" BorderRadius="20" TextColor="#3C6EFF" Clicked="Button_Clicked"/>
+                    
+                </StackLayout>
+                <StackLayout Grid.Row="2" HorizontalOptions="CenterAndExpand" Margin="0,0,0,50">
+                    <Label Text="SK Rental" HorizontalOptions="Center" FontAttributes="Bold" FontSize="30" TextColor="White"/>
+
+                </StackLayout>
+
+            </Grid>
+        </Grid>
+
+    </ContentPage.Content>
+</ContentPage>
