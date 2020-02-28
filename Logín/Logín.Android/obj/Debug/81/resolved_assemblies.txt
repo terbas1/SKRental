@@ -1,9 +1,13 @@
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Logín.Android.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\FormsViewGroup.dll
+D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\ImageCircle.Forms.Plugin.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Java.Interop.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Logín.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Mono.Android.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\mscorlib.dll
+D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Plugin.CurrentActivity.dll
+D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Plugin.Media.dll
+D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Plugin.Permissions.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\SQLite-net.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_green.dll
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\SQLitePCLRaw.batteries_v2.dll

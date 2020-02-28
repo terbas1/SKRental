@@ -11,5 +11,10 @@ D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Logín.pdb
 D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
 D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\RegisterPage.xaml.g.cs
-D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\XamlC.stamp
 D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\MylistPage.xaml.g.cs
+D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\InspecSeguridadPage.xaml.g.cs
+D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\ObsPreventivaPage.xaml.g.cs
+D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\OPTPage.xaml.g.cs
+D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\Views\CamaraPage.xaml.g.cs
+D:\App xamarin\Logín\Logín\Logín\obj\Debug\netstandard2.0\XamlC.stamp

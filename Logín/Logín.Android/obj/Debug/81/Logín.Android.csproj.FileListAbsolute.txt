@@ -32,7 +32,6 @@ D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\res\mipmap-xxhdpi\launc
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\res\mipmap-xxxhdpi\icon.png
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\res\mipmap-xxxhdpi\launcher_foreground.png
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\res\drawable\fondo.jpg
-D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\res\drawable\logo.png
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\R.cs.flag
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\R.txt
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\uploadflags.txt
@@ -58,6 +57,7 @@ D:\App xamarin\Logín\Logín\Logín.Android\bin\Debug\System.ServiceModel.Intern
 D:\App xamarin\Logín\Logín\Logín.Android\bin\Debug\System.Web.Services.pdb
 D:\App xamarin\Logín\Logín\Logín.Android\bin\Debug\Mono.Security.pdb
 D:\App xamarin\Logín\Logín\Logín.Android\bin\Debug\Logín.dll.mdb
+D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\res\xml\file_paths.xml
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\linksrc\Logín.Android.pdb
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\linksrc\FormsViewGroup.pdb
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\linksrc\Mono.Android.pdb
@@ -104,6 +104,4 @@ D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\System.X
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Xamarin.Forms.Core.pdb
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Xamarin.Forms.Platform.Android.pdb
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\android\assets\Xamarin.Forms.Xaml.pdb
-D:\App xamarin\Logín\Logín\Logín\bin\Debug\netstandard2.0\Logín.dll
-D:\App xamarin\Logín\Logín\Logín.Android\bin\Debug\Logín.dll.mdb
 D:\App xamarin\Logín\Logín\Logín.Android\obj\Debug\81\linksrc\Logín.dll.mdb

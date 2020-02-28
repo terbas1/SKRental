@@ -3,6 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="Logín.LoginPage">
     <ContentPage.Content>
+        <ScrollView HeightRequest="300">
         <Grid>
             <Image Source="fondo.jpg" Aspect="AspectFill" />
             <BoxView Color="#3C6EFF" Opacity="0.8" />
@@ -20,7 +21,7 @@
                     <Entry Placeholder="Contraseña" PlaceholderColor="White" IsPassword="True" x:Name="Password"/>
                     <Button Text="Iniciar Sesión" BackgroundColor="White" BorderRadius="20" TextColor="#3C6EFF" Clicked="Handle_Clicked_1"/>
                     <StackLayout Orientation="Horizontal">
-                        <Button Text="No tienes cuenta? Haz Click Aquí !" HorizontalOptions="EndAndExpand" FontAttributes="Bold" TextColor="White" Margin="10,10,10,10" BackgroundColor="#3C6EFF" Clicked="Handle_Clicked"/>
+                        <Button Text="No tienes cuenta? Haz Click Aquí !" HorizontalOptions="EndAndExpand" FontAttributes="Bold" Opacity="0.8" TextColor="White" Margin="10,10,10,10" BackgroundColor="#3C6EFF" Clicked="Handle_Clicked"/>
                     </StackLayout>
                 </StackLayout>
                 <StackLayout Grid.Row="2" HorizontalOptions="Center" Margin="0,0,0,50">
@@ -28,8 +29,8 @@
 
                 </StackLayout>
                 
-            </Grid>
+            </Grid> 
        </Grid>
-
+        </ScrollView>
     </ContentPage.Content>
 </ContentPage>
